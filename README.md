@@ -3,8 +3,9 @@ Learning Management System Front End
 
 ### Technology Used
 1. React Native
-2. React Native Paper
+2. React Native Paper (For Styling)
 3. Expo
+4. NodeJS
 
 ### Available Features
 1. Student, Lecturer Create Account
