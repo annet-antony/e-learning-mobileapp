@@ -1,5 +1,5 @@
-# FrontEnd-MobileUI
-Learning Management System
+# E-Learning-Mobile-App
+Learning Management System Front End
 
 Technology Used
 1. React Native
